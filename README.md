@@ -9,3 +9,8 @@
     
 # Inicie a API
   $ npm run dev
+  
+  
+# Testes 
+
+$ npm test
