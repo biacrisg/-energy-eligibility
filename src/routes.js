@@ -6,7 +6,7 @@ const routes = express.Router();
 
 //ROUTES
 
-routes.get('/', (req, res) => {
+routes.get('/oi', (req, res) => {
   res.status(200).send({ status: 'It works' });
 });
 
